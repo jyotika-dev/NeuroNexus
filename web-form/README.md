@@ -4,6 +4,8 @@
 
 This task involved creating a simple and styled web form using HTML and CSS. The form collects basic user information such as full name, contact number, address, company name, email address, department, and gender.
 
+![Screenshot of the Web Form](images/web-form.png)
+
 ## Files Included
 
 - `index.html`: The HTML file containing the structure and content of the web form.
